@@ -1,0 +1,7 @@
+dotenv
+openpyxl
+langchain
+langchain-huggingface
+langchain-community
+faiss-cpu
+ragas
